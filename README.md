@@ -7,3 +7,6 @@ AAHAR is one of the best opportunity for the people who do not get to eat food. 
 
 UI & Documentations:
 https://drive.google.com/drive/folders/1lDQRTAhWdbBI1k8zMknwEIEMXxw1Pen9?usp=sharing
+
+
+Tech Stack : HTML, CSS, JS, PHP, Xamp Server, SQL
